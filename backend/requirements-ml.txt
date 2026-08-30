@@ -1,0 +1,6 @@
+# Install this file in a Python 3.11-3.13 environment for the production RAG stack.
+chromadb==1.0.20
+sentence-transformers==5.1.0
+langgraph==0.6.7
+langchain-core==0.3.74
+langchain-openai==0.3.32

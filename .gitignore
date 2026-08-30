@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.venv/
+.venv-ml/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+data/knowledge.db
+data/uploads/*
+data/chroma/*
+!data/uploads/.gitkeep
+!data/chroma/.gitkeep
